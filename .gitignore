@@ -4,5 +4,11 @@
 main
 build/
 
+# Binary files in all subdirectories
+phase0-cpp-basics/*/vector_ornek
+
+#Build directories
+build/
+
 #IDE files
 .vscode/
