@@ -5,6 +5,9 @@ phase0-cpp-basics/
 *.o 
 *.out
 main
+*/main
+*/*/main
+*/*/*/main
 build/
 
 # Binary files in all subdirectories
