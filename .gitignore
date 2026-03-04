@@ -17,4 +17,4 @@ phase0-cpp-basics/*/vector_ornek
 build/
 
 #IDE files
-.vscode/
+.vscode/*/*/src/thread_pool
